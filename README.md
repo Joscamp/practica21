@@ -1,3 +1,2 @@
-#Practica 21
-Este es un ejemplo de la practica 21
-Hola mundo
+#Practica21
+Esta es una practica
